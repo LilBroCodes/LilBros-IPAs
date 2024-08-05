@@ -1,0 +1,22 @@
+{
+    "name": "LilBro's IPA Library",
+    "identifier": "xyz.lilbrocodes.ipalibrary",
+    "sourceURL": "https://raw.githubusercontent.com/LilBroCodes/LilBros-IPAs/main/apps.json",
+    "apps": [
+        {
+            "name": "Sonulus",
+            "bundleIdentifier": "com.sonulus.sonulus",
+            "developerName": "sonulus",
+            "iconURL": "https://utfs.io/f/c9148635-27da-4d43-b53e-dffe932567b8-1x5rt.png",
+            "versions": [
+                {
+                    "version": "0.8.4_1",
+                    "date": "2024-08-05",
+                    "size": 108122155,
+                    "downloadURL": "https://utfs.io/f/bf056380-55bd-4687-990e-ab08e8e5ad6a-rxmvhe.8.4_1.ipa",
+                    "localizedDescription": "Sonolus is a next generation Mobile Rhythm Game that aims to provide maximum freedom to players and level makers."
+                }
+            ]
+        }
+    ]
+}
